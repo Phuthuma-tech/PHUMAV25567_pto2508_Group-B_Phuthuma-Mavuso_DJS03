@@ -97,7 +97,7 @@ podcast-app/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/podcast-app.git
+git clone https://github.com/Phuthuma-tech/podcast-app.git
 cd podcast-app
 
 # 2. Install dependencies
